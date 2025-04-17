@@ -36,12 +36,13 @@ Currently learning Django, FastAPI, databases, and automation.
 ## Design & Visuals
 
 Design portfolio:  
-👉 [behance.net/netkann](https://www.behance.net/netkann)
+[behance.net/netkann](https://www.behance.net/netkann)
 
 ---
 
 ## Contacts
 
-- ✉️ ksipsi@gmail.com  
+- Telegram: @netkann  
+- ✉️ ksipsi@gmail.com
 - 📍 Krasnoyarsk (remote/flexible)  
 - 🛠 Open for collaboration
