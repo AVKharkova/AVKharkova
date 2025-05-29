@@ -33,11 +33,9 @@ Currently learning Django, FastAPI, databases, and automation.
 
 ---
 
----
-
 ## My projects
 <div style="margin: 0;">
-  <a href="[[https://kuznetcovivan.github.io/](https://avkharkova.github.io/)](https://avkharkova.github.io/)" target="_blank">
+  <a href="https://avkharkova.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Check_it_out-FF0000?style=flat&logo=github&logoColor=white" alt="My Projects" style="width: 160px;">
   </a>
 </div>
