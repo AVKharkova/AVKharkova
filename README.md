@@ -1,10 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=150&section=header&text=Hi%20everyone,%20Anastasiia%20here.&fontColor=ffffff&animation=fadeIn&fontSize=32&fontAlign=47&fontAlignY=18&desc=Welcome!&descAlign=50&descSize=16&descAlignY=40" />
-
 <p align="center">
 Python Backend Developer | Django | PostgreSQL | Docker  
-</p>
-
----
+</p> <img src="https://capsule-render.vercel.app/api?type=waving&color=2e7d32&height=150&section=header&text=Hi%20everyone,%20Anastasiia%20here.&fontColor=ffffff&animation=fadeIn&fontSize=32&fontAlign=47&fontAlignY=18&desc=Welcome!&descAlign=50&descSize=16&descAlignY=40" />
 
 <p align="center">
 
@@ -35,16 +31,17 @@ Python Backend Developer | Django | PostgreSQL | Docker
 ### About Me / Обо мне
 
 I enjoy backend development for its clean logic, structured thinking, and the power to turn complex ideas into working systems.  
-Currently deepening my skills in Django, FastAPI, relational databases, and process automation.
+Currently deepening my skills in Django, FastAPI, relational databases, and process automation. Based in Krasnoyarsk.
 
 Мне нравится backend-разработка за чёткую логику, структурность и возможность превращать идеи в работающие решения.  
-Сейчас углубляю знания в Django, FastAPI, работе с базами данных и автоматизации процессов.
+Сейчас углубляю знания в Django, FastAPI, работе с базами данных и автоматизации процессов. Живу в Красноярске.
 
 ---
 
 ### My projects / Проекты
 
 Check out my portfolio to see what I'm working on:  
+
 Посмотрите портфолио, чтобы узнать, над чем я работаю:
 
 <div style="margin: 0;">
@@ -57,6 +54,10 @@ Check out my portfolio to see what I'm working on:
 
 ### Contacts / Контакты
 - Telegram: @netkann
-- ✉️ ksipsi@gmail.com  
-- 📍 Krasnoyarsk (remote/flexible)  
+- ksipsi@gmail.com  
+- https://www.behance.net/netkann
 - 🛠 Open for collaboration
+
+---
+
+Thanks for visiting! Спасибо за визит!
